@@ -11,6 +11,7 @@ This project aims to identify the top-performing TikTok influencers in Saudi Ara
 ## Target Audience
 - **Primary**: Areej (Head of Marketing)
 - **Secondary**: Marketing team members involved in running campaigns with TikTok influencers
+![Screenshot 2024-11-11 185855](https://github.com/user-attachments/assets/a86436e1-b2f5-49b0-862a-bb5e056f13d0)
 
 ## Features
 - **Top Influencer Identification**: Lists influencers by follower count, engagement rate, and potential reach.
